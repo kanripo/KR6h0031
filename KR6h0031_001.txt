@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:06.685775
+#+DATE: 2015-08-30 20:07:08.449534
 #+TITLE: 大集譬喻王經
 #+PROPERTY: CBETA_ID T13n0422
 #+PROPERTY: ID KR6h0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 422
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0031_T_001-0948c> 
 #+PROPERTY: JUAN 1
 ¶
-No.422¶
-
- 《大集譬喻王經》卷上¶
+No. 422¶
+《大集譬喻王經》卷上¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -112,7 +111,7 @@ No.422¶
 弟子所，到已告言：『汝取此金為我作釧，我
 <pb:KR6h0031_T_001-0949c>¶
 著脚上。』時彼金師若彼弟子，告言丈夫：『我¶
-以此金為作瓔珞，隨汝頂戴若頸若手，繫¶
+以此金為作瓔珞，隨汝頂戴若頸若手，擊¶
 已，多有百千人眾見生歡喜，讚歎於汝。』奢¶
 利弗！時彼愚人不用金師利益善語，報金師¶
 言：『汝但為我作於脚釧。』如是奢利弗！善家¶
