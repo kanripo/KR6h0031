@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大集譬喻王經
+#+DATE: 2015-08-30 20:07:06.932876
+#+PROPERTY: JUAN 0
